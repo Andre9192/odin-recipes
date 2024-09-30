@@ -1,1 +1,2 @@
 # odin-recipes
+I learned went over a lot of basics to try to solidify them into my muscle memory such as creating the HTML boilerplate, creating links, making lists and becoming familiar with the text editor.
